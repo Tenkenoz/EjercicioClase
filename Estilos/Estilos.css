@@ -1,0 +1,50 @@
+header{
+    background-color: blue;
+    color:rgb(79, 75, 75);
+    text-align: center;
+}
+h1{
+    margin-bottom: 0;
+    color:white;
+}
+.Encabezado{
+    margin-top: 0;
+}
+nav{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+section{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.ojo{
+    margin-left: 20px;
+}
+.izquierdo{
+    background-color: antiquewhite;
+    margin-right: 5px;
+    border-radius: 5px;
+    padding-right: 50px;
+}
+.derecho{
+    background-color: aqua;
+    border-radius: 5px;
+}
+footer{
+    background-color: blue;
+    text-align: center;
+}
+
+.titulos{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.descripcion{
+    display: flex;
+    color: white;
+    justify-content: space-around; 
+}
