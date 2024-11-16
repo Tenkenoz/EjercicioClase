@@ -48,3 +48,6 @@ footer{
     color: white;
     justify-content: space-around; 
 }
+span>a{
+    color: white;
+}
